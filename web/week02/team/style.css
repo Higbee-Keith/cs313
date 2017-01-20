@@ -1,0 +1,34 @@
+#div1 {
+   font-size: 1em;
+   background-color: #3ae332;
+}
+
+#div2 {
+   font-size: 1.2em;
+   background-color: #aeabbd;
+}
+
+#div3 {
+   font-size: .8em;
+   background-color: #af3aba;
+}
+
+div {
+   width: 200px;
+   padding: 20px;
+   margin: 10px;
+   display: inline-block;
+}
+
+div:hover {
+   font-weight: bold;
+}
+
+button {
+   display: block;
+   border-radius: 5px;
+   background: #aaaadd;
+   width: 80px;
+   height: 45px;
+   font-size: 14px;
+}
