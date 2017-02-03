@@ -19,6 +19,10 @@
 		<p><a href="week03/self/index.php">Week 03 - Survey</a></p>
 	</div>
 
+	<div class="w3-card-4 w3-padding-large">
+		<p><a href="week05/self/index.php">Week 05 - Project</a></p>
+	</div>
+
 	<!--footer-->
 	<?php include_once("footer.php"); ?>
 </body>
