@@ -1,19 +1,20 @@
 After completing the assignment, please answer the questions in this text file and submit it to I-Learn.
 
 1. Project Title / One sentence description:
-
+Online Journal
 
 2. Copy and paste the URL for your web application:
+https://rocky-depths-30017.herokuapp.com/proj/index.php
 
 
 3. Copy and paste the URL for your source code repository (e.g., GitHub):
-
+https://git.heroku.com/rocky-depths-30017.git
 
 4. Please provide a brief description of what your project does and how to use the application. Make sure to include any required information such as a username/password if necessary.
-
+My project allows a person to search for journal entries by tags, dates, or moods.
 
 5. Briefly describe any pieces of the assignment that are not yet working correctly.
-
+Due to other responsbilities, I have not been able to get a new entry saved to the database yet.  I wanted to further progress on the project, but the last two weeks have proved difficult to do so.
 
 6. Provide evidence of your database design by dumping the SQL that describes your Heroku database to the file "output.sql" using the following command. Submit this SQL file in addition to the submission file for this assignment.
 
@@ -23,7 +24,7 @@ After completing the assignment, please answer the questions in this text file a
 Project Self-assessment
 --------------------------------
 
-For the each of the following criteria, please stat which category you feel best describes your work and give a 1-2 sentence justification for each. The categories are:
+For the each of the following criteria, please state which category you feel best describes your work and give a 1-2 sentence justification for each. The categories are:
 
 A - Some attempt was made
 B - Developing, but significantly deficient
@@ -32,15 +33,22 @@ D - Meets requirements
 E - Shows creativity and excels above and beyond requirements
 
 1. Professional look and feel
+C - My intent was to separate the sections, but still keep them easily accessible.  I'm not happy with the colors and spacing though.  
 
 2. Accomplishes a meaningful/interesting task
+C - I believe it is a meaningful task.  I want someplace for myself to keep track of my writings.  I wanted to create this to run locally on my own dev environment.
 
 3. Demonstrates good database design principles
+D - This is one area I feel comfortable with.  The database is setup cleanly with foreign key references.  This shows in the queries that are included.
 
 4. Demonstrates skill in database retrieval
+D - Like mentioned above, the queries should be functional and pull what is requested.
 
 5. Demonstrates skill in database modification
+A - I've made attempts to get this to work, but haven't been able to fully implement and get the saving of an entry functional.  Outside the site, running an insert statement is no problem, but getting it to work with html/php has been a challenge.
 
 6. Demonstrates mastery of client-side/server-side coordination and communication.
+C - I'm putting myself middle ground here.  Some of the site shows I can communicate with the database based upon input from the user.  Other parts are non-functional.
 
 7. Overall Project
+B - I really would like this to be higher.  But being honest with myself, the project isn't fully ready.
