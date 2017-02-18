@@ -1,0 +1,46 @@
+After completing the assignment, please answer the questions in this text file and submit it to I-Learn.
+
+1. Project Title / One sentence description:
+
+
+2. Copy and paste the URL for your web application:
+
+
+3. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+
+4. Please provide a brief description of what your project does and how to use the application. Make sure to include any required information such as a username/password if necessary.
+
+
+5. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+
+6. Provide evidence of your database design by dumping the SQL that describes your Heroku database to the file "output.sql" using the following command. Submit this SQL file in addition to the submission file for this assignment.
+
+  $ heroku run 'pg_dump $DATABASE_URL' > output.sql
+
+--------------------------------
+Project Self-assessment
+--------------------------------
+
+For the each of the following criteria, please stat which category you feel best describes your work and give a 1-2 sentence justification for each. The categories are:
+
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+1. Professional look and feel
+
+2. Accomplishes a meaningful/interesting task
+
+3. Demonstrates good database design principles
+
+4. Demonstrates skill in database retrieval
+
+5. Demonstrates skill in database modification
+
+6. Demonstrates mastery of client-side/server-side coordination and communication.
+
+7. Overall Project
